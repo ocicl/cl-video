@@ -1,0 +1,10 @@
+* cl-video
+
+Video file decoding in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/varjagg/cl-video.git   |
+| commit  | eb5fbea  |
+| systems | cl-video |
+|---------+-------------------------------------------|
+
